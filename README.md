@@ -2,6 +2,11 @@
 
 A full-stack web application for food banks and food shelves, featuring separate portals for staff operations and client requests.
 
+## 🌐 Live Demo
+- **Client Portal (no login):** https://nonprofit-portal-4.preview.emergentagent.com/request
+- **Staff Portal:** https://nonprofit-portal-4.preview.emergentagent.com/login
+- **Demo login:** admin@eightlife.org / admin123
+
 ## 🎯 Features
 
 ### Staff Portal
